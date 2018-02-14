@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  background-color: #7A756C;
+
+}
+
+header {
+  background:#03a9f4;
+  text-align: center;
+}
+
+.logo {
+  color: #BD8A33;
+  font-size: 48px;
+  font-family: 'Pacifico', cursive;
+}
+
+header input {
+  font-size: 20px;
+  margin: 20px 0;
+}
+
+.news_item {
+
+}

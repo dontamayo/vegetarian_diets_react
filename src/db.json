@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "title": "Tofu",
+        "feed": "Why it's great: Plain tofu has a lot going for it. It's a terrific source of protein, zinc, iron, and it even contains some cholesterol-lowering omega-3 fatty acids. It also gives you more than 100 milligrams (mg) of calcium in a half cup. But the same amount of calcium-enriched tofu gives you up to 350 mg (about one-third of your daily needs) plus roughly 30 percent of your daily vitamin D, which helps your body absorb the calcium—an extra bone-building punch that many people need. Look for enriched soymilk, too, which is also fortified with calcium and vitamin D. Tip:'Tofu can be substituted for the same amount of meat, poultry or fish in almost any recipe,' Firm tofu works best because it holds its shape when you sauté it or grill it."
+    },
+    {
+        "id": 2,
+        "title": "Lentils",
+        "feed": "Why they're great: Lentils, like beans, are part of the legume family, and like beans, they're an excellent source of protein and soluble fiber. But lentils have an edge over most beans: They contain about twice as much iron. They're also higher in most B vitamins and folate, which is especially important for women of childbearing age as folate reduces the risk for some birth defects. For new vegetarians, lentils are also the perfect way to start eating more legumes because they tend to be less gassy."
+    },
+    {
+        "id": 3,
+        "title": "Beans",
+        "feed": "Why they're great: A cup a day gives you about one-third of your iron and protein and roughly half your fiber. Even better, most of that is soluble fiber, which helps lower cholesterol. One cup also provides a good amount of potassium, zinc and many B vitamins, and some calcium too. Just one alert: Rinse canned beans well—they can be soaked in salt."
+    },
+    {
+        "id": 4,
+        "title": "Nuts",
+        "feed": "Why they're great: They're a nifty source of quick, totally palatable protein. In additon, walnuts, peanuts, almonds, cashews, pecans, macadamias and Brazil nuts are rich in zinc, vitamin E and omega-3 fatty acids. Some, like almonds, even provide a decent amount of calcium (about 175 mg in a half cup). There's also some great nut news: Recent studies show that even though nuts are high in calories, eating them does not lead to weight gain, In fact, people who eat nut-rich diets tend to weigh less than those who don't, say researchers at Loma Linda University and Purdue University. Peanuts may even help weight loss. Why nuts don’t make you fat—and may even help you lose weight—isn't clear. It's possible that nuts make you feel so full that you're less likely to overeat other foods, says Sass. Other experts suspect that the labor-intense job of digesting nuts burns off calories. There are also hints that nuts increase the amount of fat that passes through the digestive tract, which might explain nut-linked weight loss. More research is obviously needed!"
+    },
+{
+        "id": 5,
+        "title": "Grains",
+        "feed": "Why they're great: Some enriched whole-grain cereals are fortified with hard-to-get vitamin B12—some even offer 100 percent of a day's requirement in one serving—as well as iron, calcium and many other nutrients. Keep in mind that if you don't eat eggs or dairy, you'll have to take a B12 supplement to make sure you're getting enough. As a group, cereals and other whole-grain foods (whole wheat breads and pastas, brown rice, etc.) are also high in other B vitamins, zinc and, of course, insoluble fiber, which not only helps whisk cholesterol out of your system but may reduce your risk of colon cancer and other digestive disorders."
+    },{
+        "id": 6,
+        "title": "Leafy Greens",
+        "feed": "Why they're great: Unlike most vegetables, dark leafy greens such as spinach, broccoli, kale, Swiss chard and collards contain healthful amounts of iron—especially spinach, which has about 6 grams or about one-third of a day's supply. They're also a great source of cancer-fighting antioxidants; are high in folic acid and vitamin A; and they even contain calcium, but in a form that's not easily absorbed. Cooking greens and/or sprinkling them with a little lemon juice or vinegar makes the calcium more available to your body.Tip: Always try to eat iron-rich foods with foods that are high in vitamin C because the C helps your body absorb the iron. With dark leafy greens, this comes naturally—just toss them into salads with yellow and red peppers, tomatoes, carrots, mandarin oranges or any citrus. Or if you prefer your veggies cooked, sauté a couple of cups of greens in some seasoned olive oil with sweet peppers, garlic and onion."
+    },{
+        "id": 7,
+        "title": "Seaweeds",
+        "feed": "Why they're great: Besides being a terrific source of iron and phytochemicals, many seaweeds—such as alaria, dulse, kelp, nori, spirulina and agar—are good sources of minerals, including magnesium, calcium, iodine, iron and chromium, as well as vitamins A, C, E and many of the Bs. Talk about superfoods! Tip: Add chopped dulse to salads or sandwiches, sauté it with other vegetables or use it in soups. Use nori sheets as the wrappers for vegetarian sushi. Toast kelp, and crumble it on pasta or rice, or add it to noodle soups. Browse through Japanese or Korean markets to find seaweeds to sample."
+    },{
+        "id": 8,
+        "title": "Dried Fruits",
+        "feed": "Why they're great: They're good, super-convenient sources of iron—and if you combine them with some mixed nuts, you've got a packet of iron and protein you can take anywhere easily. In addition, dried fruits—think apricots, raisins, prunes, mangos, pineapple, figs, dates, cherries and cranberries—provide a wide array of minerals and vitamins as well as some fiber. And even kids love to snack on them.Tip: Sprinkle them on salads, use in chutneys, stir into puréed squash and sweet potatoes, or blend with nuts and seeds to make your own favorite snack mix. Chopped up, dried fruits make healthful additions to puddings, fruit-based pie fillings, oat bars, cookies, hot and cold cereals—you name it."
+    }
+]
